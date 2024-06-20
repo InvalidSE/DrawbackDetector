@@ -1,0 +1,167 @@
+,title,description,drawback_frequency
+774,Bishop Fan Club,You must promote to bishops. Your king and queen can only move diagonally,17
+646,Guerilla Tactics,"After playing a capturing move, you must return the capturing piece to its previous location if possible",16
+523,Cheerleaders,Your non-pawn pieces can only capture if they're adjacent to one of your pawns,15
+113,Spread Out,"You can't move a non-pawn piece adjacent to another one of your non-pawn pieces, and you can't castle",15
+213,Far Sighted,Your pieces can't capture pieces that are adjacent to them,14
+290,Blinded by the Sun,You can't end your turn attacking E5,14
+618,Sibling Rivalry,You cannot move a piece to a square adjacent to an opponent's piece of the same type,14
+783,Blinded by the Sun,You can't end your turn attacking E4,14
+655,Blinded by the Sun,You can't end your turn attacking D4,14
+621,Blinded by the Sun,You can't end your turn attacking D5,14
+809,Truant,You can't move the same piece twice in a row,13
+777,"Always Check, It Might Be Mate","If you are checked, you lose",13
+780,Even Keeled,You can only capture on even-numbered moves,13
+752,Stop Stalling,Your pieces can't move laterally,13
+162,Stir Crazy,"If you haven't moved your king 4 turns in a row, you must move it on the fifth",12
+34,Oddball,You can only capture on odd-numbered moves,12
+61,Unrequited Love,Your king can't move away from your queen (and can't move if you don't have one). Your queen can't move towards your king,12
+62,Gambler,"Can't move a specific piece type, re-randomized every move",11
+681,Moving Day,"At the start of moves 21 and onwards, your pieces can't be on your home row",11
+166,Torpedos,"If you made a non-capturing move with a pawn on your previous turn and you can move it again this turn, you must",11
+766,Chivalry,You can only capture their heavies (rooks and queens) with a knight,11
+9,Scouting Ahead,"As long as you have a pawn, you cannot move non-pawns ahead of your most advanced pawn",10
+2,Theocracy,"On even-numbered moves, you can only capture with bishops",10
+12,Modest,You lose if you have more pieces than your opponent,10
+800,Turn the Other Cheek,You cannot recapture,10
+16,Lethal Attraction,You can't make moves that place the moving piece farther away from your opponent's king than it started,10
+796,Drag,"Your queen is a king. It moves like one, and if it's captured, you lose",10
+197,Bipartisanship,You cannot move left twice in a row or right twice in a row,10
+206,Theocracy,"On odd-numbered moves, you can only capture with bishops",10
+151,Pawn Battle,Lose if you have fewer pawns than your opponent,10
+93,Savior Complex,"When in check, you must move your queen (or lose)",10
+552,Vegan,You can't capture knights,9
+530,Whites of Their Eyes,Your capturing moves must be of distance 2 or less,9
+165,Comfort Zone,"If you can move to D4, you must",9
+229,Haunted,You can't move to a square that you have captured on,9
+588,Comfort Zone,"If you can move to D5, you must",9
+633,Comfort Zone,"If you can move to F4, you must",9
+438,Comfort Zone,"If you can move to F5, you must",9
+651,Comfort Zone,"If you can move to C4, you must",9
+794,Lame Duck,You can't move your king,8
+28,Nurturer,You can't capture their king until you've promoted a pawn,8
+756,Religious Dispute,"If your opponent moves a bishop, you must move a bishop (or lose)",8
+755,King of the Hill,"Except for the first turn, if you start your turn without a piece in the center 4 squares, you lose",8
+157,Thunderdome,"The middle 16 squares are the thunderdome. Once one of your pieces enters the thunderdome, it can't leave unless it's the only piece in the thunderdome",8
+186,True Gentleman,Can't capture queens,8
+662,Torchlight,Your non-pawn pieces can only make moves that start or stop adjacent to one of your pawns,8
+659,Spice of Life,You can't move the same piece type twice in a row,8
+249,Homeland Security,"If your opponent moves into your 16 starting squares, you lose",7
+421,Triple Play,You can only capture their king if you have three knights,7
+424,Bridge Over Troubled Water,There is a river in the middle of the board. You can't land on it and you can only pass over it via the bridge in the center two files,7
+430,Rook on the Seventh,"By move 15, you must move one of your rooks onto the second rank",7
+666,Secret Garden,"You have a secret garden in front of your pawns. You can't move onto it, and if your opponent tramples it (moves onto it), you lose",7
+795,Boastful,You lose if you have fewer pieces than your opponent,7
+169,Hold them Back,You lose if your opponent moves a pawn to your side of the board,7
+776,Now Kiss,"In order for your bishops to be able to capture, they must end a turn adjacent to each other. If one is captured before this happens, the other can never capture unless you promote a new one. The same is true about your knights and rooks.",7
+190,Eye of Sauron,"As long as you have a rook, your non-pawn pieces can't move to a rank more advanced than the farthest square your rooks can see (a square they're on or can move to)",7
+772,Rook on the Seventh,"By move 15, you must move one of your rooks onto the seventh rank",7
+20,Botez Gambit,"At the start of turn 11, you must not have a queen, and your opponent must have a queen",7
+199,Reconnaissance,"You start being unable to capture. Every turn, you study all the pieces you would be able to capture normally, and once you've studied them for a turn, you can capture that piece type for the rest of the game",7
+785,Irresistible,"If you can move a piece adjacent to your opponent’s king that isn't already, you must, except that you are always permitted to capture their king",7
+6,Peons First,Can't move pieces that are one square behind one of your pawns,7
+148,Triple Play,You can only capture their king if you have three bishops,7
+178,Shellshocked,"Whenever your opponent captures, pieces adjacent to the capture can't move for one turn",6
+176,Control Center,Your non-capturing moves must be to the four central files,6
+103,Elephants Fear Mice,Your non-pawn pieces can't capture pawns,6
+362,Winds of Fate,"Every turn, you will randomly be unable to move either left or right",6
+770,Eye for an Eye,"If your opponent captures, you must capture on your next move (or lose)",6
+390,Bloodthirsty,"After the first 3 turns, if you go 2 turns without capturing, you must capture on the third (or lose)",6
+185,Conscientious Objectors,Can't capture with pawns,6
+660,Fischer Random,"On or before move 20, all your remaining non-pawn pieces must be on your home row, on a square that it could not have started on (e.g. rooks may not be on the A or H file)",6
+720,Forward March,Can't move backwards,6
+765,Medusa,Any pieces that are currently attacked by your opponent's queen are turned to stone and can't move,5
+170,Social Distancing,You cannot make non-capturing moves to squares adjacent to your opponent's pieces,5
+555,Centralized Command,You can only capture if you've moved your king in the last 3 turns,5
+561,Indecisive,Your pieces can't capture if they could make multiple capturing moves,5
+192,Leveling Up,"You can't capture a piece until you've captured its predecessor in the list [pawn, knight, bishop, rook, queen, king]",5
+498,Abstinence,"If your opponent ever has two non-pawn pieces of the same type adjacent to each other, you lose",5
+69,Glorious Battle,"For four consecutive moves, starting on move 15, you must capture (or lose)",5
+525,My Kingdom for a Horse,"If your opponent captures a knight, you lose",5
+482,Cowering in Fear,You can't move a piece of less value than one your opponent has taken,5
+216,Barbarian Rage,"If you captured on your last move, you must capture if able",5
+434,Tower Defense,"You can't move your rooks. If you lose all your rooks, you lose",5
+743,Glorious Battle,"For four consecutive moves, starting on move 14, you must capture (or lose)",5
+209,Absolution,"When one of your non-bishop pieces captures, it must seek absolution by starting its turn adjacent to one of your bishops before it can capture again",4
+612,Inside the Lines,You can't move onto the rim (you can make moves that start and stop on the rim),4
+234,Eat Your Vegetables,You can't capture non-pawns until your opponent only has 4 pawns remaining,4
+230,Respectful,You can't give check,4
+686,Superstitious,You can't move to a square that your opponent has captured on,4
+679,Velociraptor,You can only capture a piece if your opponent has moved a piece of that type in their last 3 moves,4
+272,Prince Charming,"If your queen is attacked, you must move a knight if possible",4
+46,Paranoid,"Your king must always be defended (you must be able to recapture if it were captured, or you lose)",4
+30,Hipster,Can't move the same piece type as your opponent's last move,4
+747,Rook Fan Club,You must promote to rooks. Your king and queen cannot move diagonally,4
+742,Royal Berth,You can't make moves that place a piece adjacent to your king,4
+291,Pacman,"If you can capture a pawn, you must",4
+295,Body Snatcher,"If your opponent ever captures a non-pawn piece with an equivalent piece, e.g. captures a Knight with a Knight, you lose",4
+273,Crusade,"For four consecutive moves, starting on move 16, you must end your turn occupying C3",4
+413,Trophy Wife,Your queen can't capture,4
+542,Crusade,"For four consecutive moves, starting on move 13, you must end your turn occupying C6",4
+558,Crusade,"For four consecutive moves, starting on move 16, you must end your turn occupying F3",4
+163,Noblesse Oblige,Your royal pieces (kings and queens) can only capture other royal pieces,3
+0,You Best Not Miss,"If you end your turn checking your opponent, you must capture their king on the next move (or lose)",3
+738,Ladies First,You can only move your king if you moved your queen on the previous move,3
+727,Shapeshifter,"Your queen starts out as a bishop. Whenever you capture a non-pawn piece, your queen becomes a copy of it. If you capture a knight, your queen becomes confused and doesn't know what to do, so can't move",3
+4,Checkers,You must capture if able,3
+802,Octomom,Lose if your opponent captures 8 of your pieces,3
+769,Gloomstalker,You can only capture from dark squares,3
+248,Warlord,"At the start of move 12 and onwards, your king must not be on the first two ranks (or you lose)",3
+741,Ivory Tower,You lose if there's an opposing piece adjacent to your king,3
+381,Windup Toys,"After the first 12 moves of the game, you can't move your knights and bishops",3
+672,Monkey See,You can only capture with piece types that your opponent has captured with,3
+364,Diplomatic Immunity,You can't capture a piece that just moved unless that move was a capture,3
+350,Simon Says,You must move onto the same color square as your opponent's last move,3
+697,Unspooling,"You can only move a total of 100 distance. Once you run out, you lose",3
+279,Doctor Octopus,You can only capture non-king pieces 8 times,3
+158,Femme Fatale,You can only capture their king with a queen,3
+214,Active Volcano,You can't move onto or orthogonally adjacent to C5,3
+639,Pack Mentality,Your pieces must move to squares adjacent to another one of your pieces,3
+647,Quicksand,"The middle two ranks are quicksand. If one of your pieces ends the turn on the same square in the middle two ranks twice in a row, it can never move again",3
+763,Active Volcano,You can't move onto or orthogonally adjacent to D4,3
+446,Active Volcano,You can't move onto or orthogonally adjacent to F5,3
+473,Scorched Earth,You can't move to a square that you've moved from,2
+89,Battle Fatigue,"When one of your pieces captures, it can't capture again until it has made a non-capturing move",2
+807,Bongcloud,"When your king is on the back rank, you can only move pawns and kings",2
+803,Separation of Church and State,You can't move your bishops next to a king and you can't move your king next to a bishop,2
+806,Professional Courtesy,You can't capture non-pawn pieces with pieces of the same type (e.g. your knights can't capture knights),2
+730,The Scent of Blood,You can't make non-capturing moves with pieces that could capture,2
+233,Hedonic Treadmill,You must move a piece at least as valuable as your opponent's last moved piece,2
+131,Castle Doctrine,You lose if your opponent ever captures a rook,2
+368,True Love,Your king can only make moves that place it adjacent to your queen (and can't move if you don't have a queen) Your queen can only make moves that place it adjacent to your king,2
+585,Left for Dead,You can only capture to the left,2
+517,Simp,Lose if you have no queen,2
+503,False Prophets,Your bishops can't capture,2
+548,Atomic Bomb,"If your opponent captures a piece adjacent to your king, you lose",2
+11,Champing at the Bit,Your pawn moves must all be distance 2,2
+789,Outflanked,"Except for capturing kings, you can't capture on the rim",2
+458,Prima Donna,You can't have more than one pawn on the same file,2
+97,Power Cells,You can't move a piece farther than the number of pawns you have,2
+553,Evil Twin,"If you can capture a piece with a piece of the same type, e.g. capture a knight with a knight, you must",2
+202,Remorseful,You can't capture twice in a row,2
+405,Messy Divorce,Your pieces can't move from the queenside to the kingside or vice versa,2
+355,Rising Water,"Every 10 turns, the water level rises one rank. You can't move pieces that are underwater and you can't move to squares that are underwater",2
+24,Leading the Charge,"As long as you have a knight, you cannot move non-knights ahead of your most advanced knight",1
+201,Horse Eats First,"As long as you have a knight, you can only capture with knights",1
+617,Closed Book,You lose if you ever start your turn while there's an open file (one with no pawns),1
+609,Flatterer,"If your opponent moves a pawn, you must move a pawn. If your opponent moves a non-pawn piece, you must move a non-pawn piece",1
+463,Untitled Duck Drawback,There is a duck sleeping on D5. You can't pass through it or land on it,1
+110,Covering Fire,You can only capture a piece if you could capture it two different ways,1
+562,Cess,You can't move to the h file,1
+529,Crenellations,Your pawns can only move to light squares,1
+225,Quit Horsing Around,"If you moved a knight on your last move, you can't move a knight",1
+222,Shadow Queen,Your queen can only move to dark squares,1
+247,Escort Mission,"If your king can capture, it must",1
+658,Stand Your Ground,Your pieces can only capture if they are attacked,1
+187,Horse Tranquilizer,Your knights can't capture,1
+302,Punching Down,Your pieces can't capture pieces worth more than them (anything can capture a king),1
+675,Just Passing Through,You can't capture on the fifth rank,1
+729,Siege,You must take at least one of your opponent's rooks by move 20 or you lose,1
+35,Stay at Home Mom,Your queen can only make moves to your two home ranks,1
+713,Expedition,"On move 15, you must move to F1",1
+293,Edgelord,Must have at least as many pieces on the rim as your opponent,1
+156,Eisoptrophobia,"Your pieces can't take pieces of the same type, e.g. your knights can't take knights",1
+775,Sleepy King,Your king can only move when in check,1
+31,Ooh Shiny,"If you can capture a piece in a way that doesn't expose your capturing piece to recapture, you must",1
+253,Queen Disguise,"Your queen is secretly either a rook or a bishop. Once you move it like one, you can't move it like the other",1
+161,Snipers,Your bishops can only capture from a distance of at least 8 (4 diagonal squares),1
